@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=LEE%20CHANG%20HWAN&height=150&fontSize=60&desc=SPACE&descAlignY=75&descAlign=60)
 
-<!--
-**leechanghwanspace/leechanghwanspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=leechanghwanspace" width="395" height="145">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacecehh" width="300" height="145">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechanghwanspace&layout=compact">
+
+---
+
+## Tech Stack
+
+![Spring](https://skillicons.dev/icons?i=spring)&nbsp;&nbsp;&nbsp;![MySQL](https://skillicons.dev/icons?i=mysql)
+
+
+
+---
+
+</div>

@@ -1,6 +1,6 @@
 <div align="center">
   
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=LEE%20CHANG%20HWAN&height=150&fontSize=60&desc=SPACE&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=LEE%20CHANG%20HWAN&height=150&fontSize=60&desc=Github&descAlignY=75&descAlign=60)
 
 ---
 
